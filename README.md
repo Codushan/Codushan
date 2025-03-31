@@ -1,5 +1,4 @@
 ## Hi there 👋
-<div align="center">
 .--.
                   |o_o |
                   |:_/ |
